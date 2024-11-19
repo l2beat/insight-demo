@@ -1,8 +1,0 @@
-build:
-  docker:
-    backend: Dockerfile.backend
-run:
-  web:
-    command: 
-    - npm run start
-    image: backend

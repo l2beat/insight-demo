@@ -1,5 +1,6 @@
 node_modules
-yarn-error.log
+cache
+
 .DS_Store
 .turbo
 .copilotignore
@@ -22,6 +23,3 @@ dist
 # .env files
 .env
 .env.local
-
-# l2b
-cache/
